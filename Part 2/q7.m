@@ -1,0 +1,1 @@
+[Ex, Ey, Ez] = gradient(-Vexact2);

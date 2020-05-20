@@ -1,0 +1,1 @@
+Matrix2 = plus(Matrix1(1:10, 1:10), transpose(Matrix1(1:10, 1:10)));

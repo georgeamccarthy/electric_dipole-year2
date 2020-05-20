@@ -1,0 +1,1 @@
+plot(linspace(0,2*pi, 200), sin(linspace(0,2*pi, 200)), 'r');
